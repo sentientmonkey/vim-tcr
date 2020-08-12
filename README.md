@@ -59,11 +59,11 @@ not yet a supported feature.
 
 Lots of features not yet implemented. Here's a running list.
 
-[x] Runs tests on save
-[x] Configurable commit message
-[x] Configurable revert command
-[ ] Configurable for other filetypes
-[ ] Configurable for other test commands
-[ ] Add all files in working directory before commit
-[ ] See history of output after pressing enter
-[ ] Handle multiple file saves at once
+- [x] Runs tests on save
+- [x] Configurable commit message
+- [x] Configurable revert command
+- [ ] Configurable for other filetypes
+- [ ] Configurable for other test commands
+- [ ] Add all files in working directory before commit
+- [ ] See history of output after pressing enter
+- [ ] Handle multiple file saves at once
